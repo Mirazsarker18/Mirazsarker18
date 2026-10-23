@@ -1,7 +1,7 @@
 ![Data Science | Machine Learning | AI | Web Development](https://media.licdn.com/dms/image/v2/D5616AQF2TA-3Do6bww/profile-displaybackgroundimage-shrink_350_1400/B56aBIoRMZIMAc-/0/1787924911215?e=1794441600&v=beta&t=StKmPPJ0q6uEWXfWPeU4LyhaOyp3fOwy5TiwuvDZm_s)
 
 # Hi there 👋, I'm Miraz Sarker.
-#### Data Science | Machine Learning | AI | Web Development
+## Data Science | Machine Learning | AI | Web Development
 
 
 I'm a web developer expanding my skills in Data Science, Machine Learning, and Artificial Intelligence. I enjoy learning through hands-on projects, solving problems with code, and building practical digital solutions.
